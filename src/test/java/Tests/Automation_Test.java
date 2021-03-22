@@ -40,7 +40,7 @@ public class Automation_Test {
 private static final Properties Price = null;
 
 //	private static final int i = 0;
-//Mahesh Nikam Code
+
 
 	WebDriver driver;
 
